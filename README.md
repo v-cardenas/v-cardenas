@@ -4,8 +4,6 @@ ___
 ## Bio
 
 Having attended California State Univeristy, Stanisluas I earned a Bachelor's Degree in Computer Science.
-My goal is to 
-
 
 
 # Projects
