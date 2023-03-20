@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi there, Welcome to my giuhub page!
+## My name is Victor Cardenas an aspiring data engineer
+___
+## Bio
 
-<!--
-**v-cardenas/v-cardenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Having attended California State Univeristy, Stanisluas I earned a Bachelor's Degree in Computer Science.
+My goal is to 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Thanks for coming by
