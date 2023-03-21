@@ -6,12 +6,13 @@ ___
 Having attended California State Univeristy, Stanisluas I earned a Bachelor's Degree in Computer Science.
 
 
-# Projects
+# Projects Done
 
 
 
 
 
+# Tools 
 
 
 
