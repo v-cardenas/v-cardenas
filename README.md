@@ -1,4 +1,4 @@
-## Hi there, Welcome to my github page!
+## Hi there, Welcome to my page
 ## My name is Victor Cardenas an aspiring data engineer
 ___
 ## Bio
