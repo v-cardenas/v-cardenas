@@ -7,14 +7,9 @@ Having attended California State Univeristy, Stanisluas I earned a Bachelor's De
 undergo further pursit into acquiring my Master's degree with further focus in Data Analytics. 
 
 # Projects Done
-Data Analysis
-Data Visualization
-EDA
-Modeling
-Dashboards 
 
 # Tools 
-Python - Numpy, Pandas, sklearn, seaborn, Beautiful Soup 
+Python 
 SQL
 Excel 
 Tablaeu
