@@ -29,4 +29,4 @@ Tablaeu
 
 
 
-## Thanks for coming by
+## Thanks for stopping by
